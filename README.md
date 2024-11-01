@@ -1,6 +1,6 @@
 # 100-Prisoners-Experiment
 
-This repository simulates the 100 Prisoners Problem, a famous probability puzzle involving strategy selection. In this puzzle, prisoners attempt to locate their numbered slips from randomly ordered boxes. The goal is to maximize the prisoners' chances of success under varying experimental setups. The program is customizable, allowing the selection of strategies, the number of prisoners, the number of search attempts, and the number of trials.
+This repository simulates the _100 Prisoners Problem_, a famous probability puzzle involving strategy selection. In this puzzle, prisoners attempt to locate their numbered slips from randomly ordered boxes. The goal is to maximize the prisoners' chances of success under varying experimental setups. The program is customizable, allowing the selection of strategies, the number of prisoners, the number of search attempts, and the number of trials.
 
 ## Overview
 
