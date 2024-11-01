@@ -19,7 +19,7 @@ This repository simulates the 100 Prisoners Problem, a famous probability puzzle
 ## Installation
 
 -   Clone the repository:
-`git clone https://github.com/CodePraisy100-Prisoners-Experment.git` then  `100 Prisoners`
+`git clone https://github.com/CodePraisy100-prisoners-experiment.git` then  `100 Prisoners`
 - Install the dependencies:
 `pip install -r requirements.txt`
 
